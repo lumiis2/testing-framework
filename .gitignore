@@ -1,0 +1,9 @@
+# Arquivos e configurações de agentes
+.agents/
+.codex/
+AGENTS.md
+
+# Cache e bytecode do Python
+__pycache__/
+*.py[cod]
+*$py.class
